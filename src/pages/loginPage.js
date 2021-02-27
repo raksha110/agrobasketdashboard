@@ -5,7 +5,7 @@ import "../styles/style.css"
 
 const LoginPage = () => (
   <div>
-    <SEO title="Agrobasket | Login" />
+    <SEO title="Agrobased" | Login" />
     <Login></Login>
   </div>
 )
