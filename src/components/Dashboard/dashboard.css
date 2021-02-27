@@ -1,0 +1,11 @@
+.table-height {
+  height: 265px;
+}
+.circle-50 {
+  border-radius: 15px;
+}
+@media screen and (max-width: 480px) {
+  .table-height {
+    height: 0px;
+  }
+}

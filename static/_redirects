@@ -1,0 +1,2 @@
+/viewPostLog/:id /viewPostLog 200
+/updatePostUnits/:id /updatePostUnits 200
