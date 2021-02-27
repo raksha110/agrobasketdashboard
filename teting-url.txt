@@ -8,3 +8,4 @@ Get list of all farmer : http://localhost:3000/getAllfarmer
 
 Add crop to company : http://localhost:3000/addCrop/5fa667dbea3b952db81e6418/Winter-rice-2020-21/rice/105/40/1-12-2020/1-8-2020
 Get detail from crop : http://localhost:3000/getCrop/wheat 
+agrobased
