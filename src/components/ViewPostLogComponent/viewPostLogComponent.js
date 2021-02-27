@@ -11,7 +11,7 @@ import Slider from "react-slick"
 import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
 import { getProgressLog, closeTransaction } from "../../services/post"
-import "./ViewPostLogComponent.css"
+import "./viewPostLogComponent.css"
 
 const titleCase = str => {
   return str
