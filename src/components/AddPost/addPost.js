@@ -20,7 +20,7 @@ const AddPost = () => {
   const [alert, setAlert] = useState(null)
   const [cropList, setCropList] = useState([])
   const monthList = [
-    "January",
+    
     "February",
     "March",
     "April",
